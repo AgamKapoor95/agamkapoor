@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Agam Kapoor</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img aling="right" height="400" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" height="400" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agamkapoor95" alt="agamkapoor95" /></a> </p>
 
 - 🔭 I’m currently working on **full-stack web development**
